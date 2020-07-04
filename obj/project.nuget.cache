@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldYyrD1sAQFxPqO8K+hqmzZixE+TgzNyHCeoxF1AyyGRpu/0I2Jf6Vis0xshGVOArc1UB0kZcmqPThkTjxFRJw==",
+  "success": true,
+  "projectFilePath": "D:\\DevProjects\\LimpaTemp\\LimpaTemp\\LimpaTemp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saulogoiana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
