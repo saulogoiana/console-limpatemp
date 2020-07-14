@@ -1,0 +1,10 @@
+D:\DevProjects\Limpa Temp\LimpaTempFroms\bin\Debug\LimpaTempFroms.exe.config
+D:\DevProjects\Limpa Temp\LimpaTempFroms\bin\Debug\LimpaTempFroms.exe
+D:\DevProjects\Limpa Temp\LimpaTempFroms\bin\Debug\LimpaTempFroms.pdb
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.FormMain.resources
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.Properties.Resources.resources
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.csproj.GenerateResource.cache
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.csproj.CoreCompileInputs.cache
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.exe
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.pdb
+D:\DevProjects\Limpa Temp\LimpaTempFroms\obj\Debug\LimpaTempFroms.csprojAssemblyReference.cache

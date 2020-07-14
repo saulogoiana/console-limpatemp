@@ -1,6 +1,5 @@
-# console-limpatemp
+# limpatemps
 
-Requiriments:
-.Net Core Runtime: https://dotnet.microsoft.com/download/dotnet-core/current/runtime
+Requisitos (.Net Runtime Framework): https://dotnet.microsoft.com/download/dotnet-framework/net472
 
-Download Link (.rar): https://mega.nz/file/58NDgKaS#DtsUAtMf5jgQ7v3aYIQV664k6QNqXTfEdyIV33X_ijU
+Download (.rar): https://mega.nz/file/hl0n2KRD#cEhz3Jz-r26oVxELuY1rGcKQomeWMquO8-J3iUQIhlM
